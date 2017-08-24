@@ -5,7 +5,7 @@
   branch = "master"
   name = "github.com/ChinmayR/PackageD"
   packages = ["."]
-  revision = "1d1bc93f92d6a439adf3a6984a80bc10c9a98a48"
+  revision = "38e4f53f414f644d96bb623abd5f30e2e74cbb6a"
 
 [solve-meta]
   analyzer-name = "dep"
