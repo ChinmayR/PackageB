@@ -1,4 +1,0 @@
-package: github.com/ChinmayR/PackageB
-import:
-- package: github.com/ChinmayR/PackageD
-  version: 812e2598eed3373da91b4359de73408cc3a0ce72
