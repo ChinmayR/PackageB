@@ -1,6 +1,0 @@
-hash: 88d3a5b6c0b4492809cd1c5205cdc25bda0859177e8186eb781cd056a8a08065
-updated: 2017-08-24T14:03:33.890297117-07:00
-imports:
-- name: github.com/ChinmayR/PackageD
-  version: 125cb34b537b155087d0676cd93f0e559161ac76
-testImports: []
